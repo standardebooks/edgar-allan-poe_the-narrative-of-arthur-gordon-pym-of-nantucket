@@ -1,0 +1,8 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+.signature{
+	font-style: italic;
+	margin-top: 2em;
+	text-align: right;
+}
