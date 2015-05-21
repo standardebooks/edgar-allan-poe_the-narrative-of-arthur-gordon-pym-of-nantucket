@@ -45,10 +45,10 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-allan-poe_the-narrative-of-arthur-gordon-pym-of-nantucket</meta>
 		<dc:creator id="author">Edgar Allan Poe</dc:creator>
 		<meta property="file-as" refines="#author">Poe, Edgar Allan</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Allan_Poe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Allan_Poe</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Willem van de Velde the Younger</dc:contributor>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willem_van_de_Velde_the_Younger</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willem_van_de_Velde_the_Younger</meta>
 		<meta property="file-as" refines="#artist">Van de Velde, Willem (the younger)</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
