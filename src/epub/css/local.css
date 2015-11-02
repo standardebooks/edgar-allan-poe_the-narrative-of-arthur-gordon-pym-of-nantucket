@@ -1,9 +1,6 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.postal{	
-	font-variant: all-small-caps;
-}
 .signature{
 	font-style: italic;
 	margin-top: 2em;
