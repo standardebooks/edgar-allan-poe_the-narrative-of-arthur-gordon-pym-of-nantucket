@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-17T06:10:59Z</meta>
+		<meta property="dcterms:modified">2015-11-18T22:42:35Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,7 +40,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/2149</dc:source>
 		<dc:source>https://archive.org/stream/arthurgordonpym00poegoog</dc:source>
-		<meta property="se:word-count">70823</meta>
+		<meta property="se:word-count">70825</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-allan-poe_the-narrative-of-arthur-gordon-pym-of-nantucket</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029745.html</meta>
