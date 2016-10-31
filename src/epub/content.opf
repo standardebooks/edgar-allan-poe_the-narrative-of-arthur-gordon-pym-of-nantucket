@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T01:53:21Z</meta>
-		<meta property="se:revision-number">36</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:02Z</meta>
+		<meta property="se:revision-number">38</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,8 +34,8 @@
 		<dc:description id="description">A young stowaway embarks on high-seas adventures.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Edgar Allan Poe is famed for his unsettling short stories, but he also wrote a full-length novel, his only one: &lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;.  Framed as the recollections of an adventurous stowaway, &lt;i&gt;Pym&lt;/i&gt; begins as a swashbuckling adventure novel, and after growing increasingly weirder, ends on a surreal note worthy of the best of Poe&amp;rsquo;s short stories.&lt;/p&gt;
-			&lt;p&gt;Despite Poe himself calling it a &amp;ldquo;a very silly book,&amp;rdquo; &lt;i&gt;Pym&lt;/i&gt; went on to become one of his most-translated and influential works, coloring the themes of future adventure and weird fiction writers like Jules Verne and H. P. Lovecraft.  It continues to influence writers to this day.&lt;/p&gt;
+			&lt;p&gt;Edgar Allan Poe is famed for his unsettling short stories, but he also wrote a full-length novel, his only one: &lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;.  Framed as the recollections of an adventurous stowaway, &lt;i&gt;Pym&lt;/i&gt; begins as a swashbuckling adventure novel, and after growing increasingly weirder, ends on a surreal note worthy of the best of Poe’s short stories.&lt;/p&gt;
+			&lt;p&gt;Despite Poe himself calling it a “a very silly book,” &lt;i&gt;Pym&lt;/i&gt; went on to become one of his most-translated and influential works, coloring the themes of future adventure and weird fiction writers like Jules Verne and H. P. Lovecraft.  It continues to influence writers to this day.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
