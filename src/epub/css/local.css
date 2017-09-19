@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.compass{
+	white-space: nowrap;
+}
+
 .signature{
 	font-style: italic;
 	margin-top: 2em;
