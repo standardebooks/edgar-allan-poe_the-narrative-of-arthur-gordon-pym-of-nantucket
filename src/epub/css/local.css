@@ -14,3 +14,8 @@ abbr.compass{
 abbr.name{
 	white-space: nowrap;
 }
+
+#epilogue img{
+	height: 1em;
+	vertical-align: middle;
+}
