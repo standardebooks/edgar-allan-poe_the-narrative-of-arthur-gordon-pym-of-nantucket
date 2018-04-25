@@ -5,10 +5,13 @@ abbr.compass{
 	white-space: nowrap;
 }
 
-.signature{
-	font-style: italic;
-	margin-top: 2em;
+footer{
+	margin-top: 1em;
 	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
 }
 
 abbr.name{
