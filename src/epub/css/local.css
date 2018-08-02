@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.compass{
-	white-space: nowrap;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -12,10 +8,6 @@ footer{
 
 .signature{
 	font-variant: small-caps;
-}
-
-abbr.name{
-	white-space: nowrap;
 }
 
 #epilogue img{
