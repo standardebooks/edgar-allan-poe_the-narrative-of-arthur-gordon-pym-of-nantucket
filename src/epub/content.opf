@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Narrative of Arthur Gordon Pym of Nantucket</dc:title>
 		<meta property="file-as" refines="#title">Narrative of Arthur Gordon Pym of Nantucket, The</meta>
 		<dc:subject id="subject-1">Whaling ships--Fiction</dc:subject>
@@ -34,20 +34,23 @@
 		<dc:subject id="subject-3">Stowaways--Fiction</dc:subject>
 		<dc:subject id="subject-4">Mutiny--Fiction</dc:subject>
 		<dc:subject id="subject-5">Nantucket Island (Mass.)--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/30008518</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/30008518</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/30008518</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/30008518</meta>
-		<meta property="meta-auth" refines="#subject-5">http://lccn.loc.gov/30008518</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008113462</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008114024</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2010114797</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108079</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008116249</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young stowaway embarks on high-seas adventures.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Edgar Allan Poe is famed for his unsettling short stories, but he also wrote a full-length novel, his only one: &lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;. Framed as the recollections of an adventurous stowaway, &lt;i&gt;Pym&lt;/i&gt; begins as a swashbuckling adventure novel, and after growing increasingly weirder, ends on a surreal note worthy of the best of Poe’s short stories.&lt;/p&gt;
 			&lt;p&gt;Despite Poe himself calling it a “a very silly book,” &lt;i&gt;Pym&lt;/i&gt; went on to become one of his most-translated and influential works, coloring the themes of future adventure and weird fiction writers like Jules Verne and H. P. Lovecraft. It continues to influence writers to this day.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2149</dc:source>
 		<dc:source>https://archive.org/details/arthurgordonpym00poegoog</dc:source>
