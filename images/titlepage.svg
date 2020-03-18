@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of The Narrative of Gordon Arthur Pym of Nantucket, by Edgar Allan Poe</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
