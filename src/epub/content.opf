@@ -48,8 +48,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young stowaway embarks on high-seas adventures.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Edgar Allan Poe is famed for his unsettling short stories, but he also wrote a full-length novel, his only one: &lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;. Framed as the recollections of an adventurous stowaway, &lt;i&gt;Pym&lt;/i&gt; begins as a swashbuckling adventure novel, and after growing increasingly weirder, ends on a surreal note worthy of the best of Poe’s short stories.&lt;/p&gt;
-			&lt;p&gt;Despite Poe himself calling it a “a very silly book,” &lt;i&gt;Pym&lt;/i&gt; went on to become one of his most-translated and influential works, coloring the themes of future adventure and weird fiction writers like Jules Verne and H. P. Lovecraft. It continues to influence writers to this day.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt; is famed for his unsettling short stories, but he also wrote a full-length novel, his only one: &lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;. Framed as the recollections of an adventurous stowaway, &lt;i&gt;Pym&lt;/i&gt; begins as a swashbuckling adventure novel, and after growing increasingly weirder, ends on a surreal note worthy of the best of Poe’s short stories.&lt;/p&gt;
+			&lt;p&gt;Despite Poe himself calling it a “a very silly book,” &lt;i&gt;Pym&lt;/i&gt; went on to become one of his most-translated and influential works, coloring the themes of future adventure and weird fiction writers like &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;. It continues to influence writers to this day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2149</dc:source>
