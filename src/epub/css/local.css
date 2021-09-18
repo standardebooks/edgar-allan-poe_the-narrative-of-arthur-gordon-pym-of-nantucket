@@ -14,3 +14,43 @@ footer{
 	height: 1em;
 	vertical-align: middle;
 }
+
+#epilogue blockquote{
+	font-variant: small-caps;
+}
+
+q{
+	font-style: italic;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+figure{
+	break-inside: avoid;
+	margin: 1em auto;
+	text-align: center;
+}
+
+#figure-1 img,
+#figure-2 img{
+	width: 10em;
+}
+
+#figure-3 img,
+#figure-4 img{
+	width: 16em;
+}
+
+#figure-5 img{
+	width: 7em;
+}
