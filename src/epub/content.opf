@@ -72,7 +72,7 @@
 		<dc:contributor id="artist">Willem van de Velde the Younger</dc:contributor>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willem_van_de_Velde_the_Younger</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82056731</meta>
-		<meta property="file-as" refines="#artist">Van de Velde, Willem (the younger)</meta>
+		<meta property="file-as" refines="#artist">Van de Velde, Willem (the Younger)</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
