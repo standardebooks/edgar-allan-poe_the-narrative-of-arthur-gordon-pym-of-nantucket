@@ -58,7 +58,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2149</dc:source>
 		<dc:source>https://archive.org/details/arthurgordonpym00poegoog</dc:source>
-		<meta property="se:word-count">70821</meta>
+		<meta property="se:word-count">70820</meta>
 		<meta property="se:reading-ease.flesch">51.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-allan-poe_the-narrative-of-arthur-gordon-pym-of-nantucket</meta>
