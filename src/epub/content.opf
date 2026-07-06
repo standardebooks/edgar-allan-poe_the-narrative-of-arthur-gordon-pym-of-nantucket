@@ -62,7 +62,7 @@
 		<meta property="schema:wordCount">70719</meta>
 		<meta property="schema:educationalLevel">51.21</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/edgar-allan-poe_the-narrative-of-arthur-gordon-pym-of-nantucket" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<link href="https://id.loc.gov/authorities/names/n79029745.html" refines="#author" rel="schema:sameAs"/>
